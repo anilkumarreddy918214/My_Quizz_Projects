@@ -9,6 +9,8 @@ public class Prog {
 
 		System.out.println("Anil...");
 
+		System.out.println("All the best your Exam.....");
+
 	}
 
 }
